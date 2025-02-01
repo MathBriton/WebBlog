@@ -1,0 +1,8 @@
+C:\Temp\WebBLOG\obj\Debug\net9.0\WebBLOG.csproj.AssemblyReference.cache
+C:\Temp\WebBLOG\obj\Debug\net9.0\WebBLOG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\WebBLOG\obj\Debug\net9.0\WebBLOG.AssemblyInfoInputs.cache
+C:\Temp\WebBLOG\obj\Debug\net9.0\WebBLOG.AssemblyInfo.cs
+C:\Temp\WebBLOG\obj\Debug\net9.0\WebBLOG.csproj.CoreCompileInputs.cache
+C:\Temp\WebBLOG\obj\Debug\net9.0\WebBLOG.MvcApplicationPartsAssemblyInfo.cs
+C:\Temp\WebBLOG\obj\Debug\net9.0\WebBLOG.MvcApplicationPartsAssemblyInfo.cache
+C:\Temp\WebBLOG\obj\Debug\net9.0\WebBLOG.sourcelink.json

@@ -1,6 +1,15 @@
-﻿namespace WebBLOG.Controllers
+﻿using Microsoft.AspNetCore.Mvc;
+
+namespace Blog.Controllers
 {
-    public class HomeController
+    [ApiController]
+    [Route("")]
+    public class HomeController : ControllerBase
     {
+        [HttpGet("")]
+        public IActionResult Get()
+        {
+            return Ok();
+        }
     }
 }
